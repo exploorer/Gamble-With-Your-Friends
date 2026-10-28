@@ -1,11 +1,5 @@
 # 🎰 Gamble With Your Friends (Казино с друзьями)
 
-<p align="center">
-  <img src="https://shields.io" alt="Release Date">
-  <img src="https://shields.io" alt="Players">
-  <img src="https://shields.io" alt="Genre">
-</p>
-
 ---
 
 ## 📝 Описание проекта
