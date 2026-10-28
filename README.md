@@ -1,5 +1,10 @@
 # 🎰 Gamble With Your Friends (Казино с друзьями)
-## [Перейти в релиз игры]()
+## [Перейти в релиз игры](https://github.com/exploorer/Gamble-With-Your-Friends/releases/tag/GWYF)
+[Скачать GambleWithYourFriends.7z](https://github.com/exploorer/Gamble-With-Your-Friends/releases/download/GWYF/GambleWithYourFriends.7z)
+
+[Скачать GambleWithYourFriends.zip](https://github.com/exploorer/Gamble-With-Your-Friends/releases/download/GWYF/GambleWithYourFriends.zip)
+
+[Скачать GambleWithYourFriends.exe Recomended](https://github.com/exploorer/Gamble-With-Your-Friends/releases/download/GWYF/GambleWithYourFriends.exe)
 
 ## 📝 Описание проекта
 
