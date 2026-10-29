@@ -1,3 +1,5 @@
+<img width="460" height="215" alt="687809533-a1526aa2-d5e9-45b2-8fed-4c0642e3c015" src="https://github.com/user-attachments/assets/4d081dfe-961a-4340-9a18-c74974f29ce1" />
+
 # 🎰 Gamble With Your Friends (Казино с друзьями)
 ## [Перейти в релиз игры](https://github.com/exploorer/Gamble-With-Your-Friends/releases/tag/GWYF)
 [Скачать GambleWithYourFriends.7z](https://github.com/exploorer/Gamble-With-Your-Friends/releases/download/GWYF/GambleWithYourFriends.7z)
